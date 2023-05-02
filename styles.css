@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+.main{
+    background-color: #f5f5f5;
+    width: 70%;
+    height: 40vh;
+    justify-content: center;
+    
+}
+
+.firstc{
+    background-color: white;
+    margin-left: 20px;
+    width: 90%;
+    padding: 20px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.secondc{
+    background-color: white;
+    border-top: 30px solid #f5f5f5; ;
+    margin-left: 20px;
+    width: 90%;
+    padding: 20px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
